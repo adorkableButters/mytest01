@@ -1,1 +1,3 @@
-jajajj
+class A{
+	
+}
